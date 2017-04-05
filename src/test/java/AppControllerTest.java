@@ -6,7 +6,7 @@ public class AppControllerTest {
 
 	@Test
 	public void sum() {
-		int first = 3;
+		int first = 1;
 		int second = 2;
 		
 		int sum = 3;
